@@ -16,6 +16,8 @@ Raw data (minute by minute):
     - Market Data (coming soon)
     - Scoreboard Data (coming soon)
 
+Example Jupyter notebook: [example analysis](https://colab.research.google.com/drive/1qRH4LXnCEXdRJAzjb7Zxqx01dx0Cxagg)
+
 ## License
 
 [MIT](LICENSE)
