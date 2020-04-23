@@ -1,5 +1,6 @@
 # iwars-data-spring-2020
 
+![ci](https://github.com/noahbass/iwars-data-spring-2020/workflows/ci/badge.svg)
 [![MIT license](https://img.shields.io/github/license/noahbass/iwars-data-spring-2020.svg)](https://opensource.org/licenses/MIT)
 
 > Raw data collected from the iWars Spring 2020 Contest ([http://gauss.ececs.uc.edu/Courses/c5156/labs/final-2020.html](https://web.archive.org/web/20200422213657/http://gauss.ececs.uc.edu/Courses/c5156/labs/final-2020.html))
