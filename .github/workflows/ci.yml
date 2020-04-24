@@ -22,4 +22,4 @@ jobs:
     - name: Pre-Install
       run: go get github.com/Clever/csvlint/cmd/csvlint
     - name: Test
-      run: ~/go/bin/csvlint contest-1-market-data.csv && ~/go/bin/csvlint contest-1-scoreboard-data.csv
+      run: ~/go/bin/csvlint contest-1-market-data.csv && ~/go/bin/csvlint contest-1-scoreboard-data.csv && ~/go/bin/csvlint contest-2-market-data.csv && ~/go/bin/csvlint contest-2-scoreboard-data.csv
