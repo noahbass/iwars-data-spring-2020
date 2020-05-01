@@ -1,9 +1,13 @@
 # iwars-data-spring-2020
 
-![ci](https://github.com/noahbass/iwars-data-spring-2020/workflows/ci/badge.svg)
-[![MIT license](https://img.shields.io/github/license/noahbass/iwars-data-spring-2020.svg)](https://opensource.org/licenses/MIT)
+[![ci](https://github.com/noahbass/iwars-data-spring-2020/workflows/ci/badge.svg)](https://github.com/noahbass/iwars-data-spring-2020/actions?query=workflow%3Aci)
+[![MIT license](https://img.shields.io/github/license/noahbass/iwars-data-spring-2020.svg)](LICENSE)
 
 > Raw time series data collected from the iWars Spring 2020 Contest ([http://gauss.ececs.uc.edu/Courses/c5156/labs/final-2020.html](https://web.archive.org/web/20200423060142/http://gauss.ececs.uc.edu/Courses/c5156/labs/final-2020.html))
+
+__Example Plot:__
+
+![Top 15 Finishers Plot - Contest 1](https://user-images.githubusercontent.com/3453188/80835191-4375d980-8bc0-11ea-9a4c-219dbe18ec3d.png)
 
 ## What's Included
 
